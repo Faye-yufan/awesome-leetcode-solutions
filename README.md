@@ -12,4 +12,5 @@ Clear explained and great quality solutions on Leetcode
 - [90. Subsets II\*](https://leetcode.com/problems/subsets-ii/solutions/1304408/subsets-ii/)(official 4.8/5.0): backtracking, bitmasking
 
 ### Dynamic Programming
+[**DP Patterns for beginner**](https://leetcode.com/tag/dynamic-programming/discuss/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions): Beatiful patterns and summary.
 - [221. Maximal Square](https://leetcode.com/problems/maximal-square/solutions/600149/python-thinking-process-diagrams-dp-approach/): Thinking Process Diagrams, suitable for many 2D DP problems.
