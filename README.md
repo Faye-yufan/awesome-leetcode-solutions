@@ -8,3 +8,6 @@ Clear explained and great quality solutions on Leetcode
 
 #### Backtracking
 - [90. Subsets II](https://leetcode.com/problems/subsets-ii/solutions/1304408/subsets-ii/)(official 4.8/5.0): backtracking, bitmasking, **subscription needed**
+
+### Dynamic Programming
+- [221. Maximal Square](https://leetcode.com/problems/maximal-square/solutions/600149/python-thinking-process-diagrams-dp-approach/): Thinking Process Diagrams, suitable for many 2D DP problems.
