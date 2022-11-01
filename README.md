@@ -14,7 +14,7 @@ Clear explained and great quality solutions on Leetcode
 ### Dynamic Programming
 [**DP Patterns for beginner**](https://leetcode.com/tag/dynamic-programming/discuss/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions): Beatiful patterns and summary.
 - [72. Edit Distance](https://www.youtube.com/watch?v=MiqoA-yF-0M): YT video, super detailed on Levenshtein Distance!
-- [115. Distinct Subsequences\*](https://leetcode.com/problems/distinct-subsequences/solutions/576286/distinct-subsequences/): How to convert recursive DP into iterative DP, here is a good explaination!
+- [115. Distinct Subsequences\*](https://leetcode.com/problems/distinct-subsequences/solutions/576286/distinct-subsequences/)(official: 5.0/5.0): How to convert recursive DP into iterative DP, here is a good explaination!
 - [221. Maximal Square](https://leetcode.com/problems/maximal-square/solutions/600149/python-thinking-process-diagrams-dp-approach/): Thinking Process Diagrams, suitable for many 2D DP problems.
 - [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/solutions/684677/3-steps-c-python-java-dp-pen-paper-diagram/?orderBy=most_votes): A triky problem, getting used to using both (count, index) tuple.
 
