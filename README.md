@@ -12,7 +12,8 @@ Clear explained and great quality solutions on Leetcode
 - [90. Subsets II\*](https://leetcode.com/problems/subsets-ii/solutions/1304408/subsets-ii/)(official 4.8/5.0): backtracking, bitmasking
 
 ### Dynamic Programming
-[**DP Patterns for beginner**](https://leetcode.com/tag/dynamic-programming/discuss/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions): Beatiful patterns and summary.
+[**DP Patterns for beginner**](https://leetcode.com/tag/dynamic-programming/discuss/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions): Beatiful patterns and summary.  
+[**Dynamic Programming Patterns**](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns):This post was rewarded with LeetCoins.(To-read)
 - [72. Edit Distance](https://www.youtube.com/watch?v=MiqoA-yF-0M): YT video, super detailed on Levenshtein Distance!
 - [115. Distinct Subsequences\*](https://leetcode.com/problems/distinct-subsequences/solutions/576286/distinct-subsequences/)(official: 5.0/5.0): How to convert recursive DP into iterative DP, here is a good explaination!
 - [221. Maximal Square](https://leetcode.com/problems/maximal-square/solutions/600149/python-thinking-process-diagrams-dp-approach/): Thinking Process Diagrams, suitable for many 2D DP problems.
