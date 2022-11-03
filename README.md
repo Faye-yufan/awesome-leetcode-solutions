@@ -18,6 +18,7 @@ Clear explained and great quality solutions on Leetcode
 - [221. Maximal Square](https://leetcode.com/problems/maximal-square/solutions/600149/python-thinking-process-diagrams-dp-approach/): Thinking Process Diagrams, suitable for many 2D DP problems.
 - [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/solutions/684677/3-steps-c-python-java-dp-pen-paper-diagram/?orderBy=most_votes): A triky problem, getting used to using both (count, index) tuple.
 - [647. Palindromic Substrings\*](https://leetcode.com/problems/palindromic-substrings/solutions/953080/palindromic-substrings/)(official 5.0/5.0): "The solution turned out to be a gold mine for all palindromic problems."
+- [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/solutions/226659/two-dp-solutions-with-pictures/):Great graph explaination, use queue to diffenrent decision.
 
 #### Bitmasking
 - [698. Partition to K Equal Sum Subsets](https://www.youtube.com/watch?v=xXKL9YBWgCY): YT video, clearly explained how to use bitmasking to solve the problem, problem statement from 9'40''.
