@@ -17,6 +17,7 @@ Clear explained and great quality solutions on Leetcode
 - [72. Edit Distance](https://www.youtube.com/watch?v=MiqoA-yF-0M): YT video, super detailed on Levenshtein Distance!
 - [115. Distinct Subsequences\*](https://leetcode.com/problems/distinct-subsequences/solutions/576286/distinct-subsequences/)(official: 5.0/5.0): How to convert recursive DP into iterative DP, here is a good explaination!
 - [221. Maximal Square](https://leetcode.com/problems/maximal-square/solutions/600149/python-thinking-process-diagrams-dp-approach/): Thinking Process Diagrams, suitable for many 2D DP problems.
+- [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/solutions/1364608/burst-balloons/)(official: 5.0/5.0): Step by step, from naive DP top-down --> optimized top-down --> bottom-up
 - [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/solutions/684677/3-steps-c-python-java-dp-pen-paper-diagram/?orderBy=most_votes): A triky problem, getting used to using both (count, index) tuple.
 - [647. Palindromic Substrings\*](https://leetcode.com/problems/palindromic-substrings/solutions/953080/palindromic-substrings/)(official 5.0/5.0): "The solution turned out to be a gold mine for all palindromic problems."
 - [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/solutions/226659/two-dp-solutions-with-pictures/):Great graph explaination, use queue to different decision.
