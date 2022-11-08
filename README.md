@@ -25,3 +25,6 @@ Clear explained and great quality solutions on Leetcode
 
 #### Bitmasking
 - [698. Partition to K Equal Sum Subsets](https://www.youtube.com/watch?v=xXKL9YBWgCY): YT video, clearly explained how to use bitmasking to solve the problem, problem statement from 9'40''.
+
+#### State Machine
+[**Stock problems**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/108870/Most-consistent-ways-of-dealing-with-the-series-of-stock-problems/): 3D DP problem
