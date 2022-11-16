@@ -29,3 +29,6 @@ Clear explained and great quality solutions on Leetcode
 
 #### State Machine
 [**Stock problems**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/108870/Most-consistent-ways-of-dealing-with-the-series-of-stock-problems/): 3D DP problem
+
+### Heap
+- [218. The Skyline Problem\*](https://leetcode.com/problems/the-skyline-problem/solutions/2375781/the-skyline-problem/): Sweep Line
