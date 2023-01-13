@@ -33,3 +33,6 @@ Clear explained and great quality solutions on Leetcode
 
 ### Heap
 - [218. The Skyline Problem\*](https://leetcode.com/problems/the-skyline-problem/solutions/2375781/the-skyline-problem/): Sweep Line
+
+### String
+[**10-line template that can solve most 'substring' problems**](https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a-10-line-template-that-can-solve-most-substring-problems/)
