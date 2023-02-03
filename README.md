@@ -36,3 +36,6 @@ Clear explained and great quality solutions on Leetcode
 
 ### String
 [**10-line template that can solve most 'substring' problems**](https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a-10-line-template-that-can-solve-most-substring-problems/)
+
+### Greedy
+- [484. Find Permutation](https://leetcode.com/problems/find-permutation/solutions/127737/find-permutation/)
